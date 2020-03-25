@@ -24,7 +24,7 @@
     <dependency>
       <groupId>com.microsoft.sqlserver</groupId>
       <artifactId>mssql-jdbc</artifactId>
-      <version>8.2.2.jre13</version>
+      <version>8.2.2.jre8</version>
     </dependency>
     <dependency>
       <groupId>com.ibm.db2</groupId>
