@@ -60,9 +60,9 @@
     <!-- Oracle driver requires extra configuration -->
     <!-- See https://blogs.oracle.com/dev2dev/get-oracle-jdbc-drivers-and-ucp-from-oracle-maven-repository-without-ides -->
     <dependency>
-      <groupId>com.oracle.ojdbc</groupId>
+      <groupId>com.oracle.database.jdbc</groupId>
       <artifactId>ojdbc8</artifactId>
-      <version>19.3.0.0</version>
+      <version>19.7.0.0</version>
     </dependency>
     <!-- 
     <dependency>
