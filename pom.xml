@@ -32,6 +32,11 @@
       <version>11.5.4.0</version>
     </dependency>
     <dependency>
+      <groupId>com.ibm.informix</groupId>
+      <artifactId>jdbc</artifactId>
+      <version>4.50.4.1</version>
+    </dependency>
+    <dependency>
       <groupId>org.postgresql</groupId>
       <artifactId>postgresql</artifactId>
       <version>42.2.16</version>
