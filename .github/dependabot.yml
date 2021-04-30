@@ -12,7 +12,7 @@ updates:
     - 2.6.0
   - dependency-name: com.microsoft.sqlserver:mssql-jdbc
     versions:
-    - *.jre11
-    - *.jre11-preview
-    - *.jre15
-    - *.jre15-preview
+    - "*.jre11"
+    - "*.jre11-preview"
+    - "*.jre15"
+    - "*.jre15-preview"
