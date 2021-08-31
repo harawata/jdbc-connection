@@ -77,7 +77,7 @@
     <dependency>
       <groupId>com.oracle.database.xml</groupId>
       <artifactId>xmlparserv2</artifactId>
-      <version>21.1.0.0</version>
+      <version>21.3.0.0</version>
     </dependency>
     <!-- 
     <dependency>
