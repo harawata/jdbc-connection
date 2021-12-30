@@ -55,7 +55,7 @@
     <dependency>
       <groupId>org.firebirdsql.jdbc</groupId>
       <artifactId>jaybird-jdk18</artifactId>
-      <version>3.0.11</version>
+      <version>3.0.12</version>
     </dependency>
     <!-- Sybase driver must be installed locally -->
     <dependency>
