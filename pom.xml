@@ -73,7 +73,7 @@
     <dependency>
       <groupId>com.oracle.database.xml</groupId>
       <artifactId>xdb</artifactId>
-      <version>21.5.0.0</version>
+      <version>21.6.0.0.1</version>
     </dependency>
     <dependency>
       <groupId>com.oracle.database.xml</groupId>
